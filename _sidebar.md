@@ -2,5 +2,4 @@
 
 * [Home](/)
 * [Quickstart](quickstart.md)
-* [Setup](setup.md)
 * [FAQ](faq.md)
